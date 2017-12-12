@@ -1,0 +1,3 @@
+1.MySql.Data.dll is mysql-connector-net-6.9.10-noinstall for .Net4.5 
+2.Iesi.Collections is Iesi.Collections.4.0.0.4000 for .Net4.0
+3.NHibernate is NHibernate.4.1.1.4000 for .Net4.0
